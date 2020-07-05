@@ -629,6 +629,8 @@
 - [ ] [Udacity: Technical Interview](https://www.udacity.com/course/technical-interview--ud513)
 - [ ] [Youtube: Stanford CS230: Deep Learning | Autumn 2018 | Lecture 8 - Career Advice / Reading Research Papers](https://www.youtube.com/watch?v=733m6qBH-jI)
 
+### Be proficient in implementing search engines
+
 ### Broaden Perspective
 - [] [Principles Sequence](https://commoncog.com/blog/the-principles-sequence)
 - [] [Book: Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299)
